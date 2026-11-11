@@ -1,6 +1,5 @@
 # Savor Symphony — PHP Header and Footer Project
-
-Author: Dhiya Kassim
+Name: Dhiya Kassim
 
 A fictional restaurant site demonstrating code reuse from uCertify Lesson 5, especially section 5.2 (include/require) and section 5.2.2 (website templates). The lesson explains reusable templates with require; this assignment specifically asks for include, which is used here. This is original project code, not a copy of the textbook source files.
 
