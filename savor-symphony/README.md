@@ -26,15 +26,6 @@ Alternatively, with PHP installed, open a terminal inside the project folder and
 
 Each content page sets `$pageTitle` and runs `include('header.php');`. It then displays its own content and runs `include('footer.php');`. Editing either shared file updates both pages. `date('Y')` supplies the current year, and `number_format()` formats menu prices.
 
-## Submit on GitHub
-
-1. Sign in to GitHub and create a repository named `php-header-footer`.
-2. Select Add file → Upload files.
-3. Upload all five code files plus this README from the extracted folder.
-4. Commit the uploaded files.
-5. Copy the repository URL from the browser and submit that URL to your class.
-
-GitHub stores the source code. GitHub Pages does not execute PHP; use XAMPP to demonstrate the working project.
 
 ## Manual check
 
